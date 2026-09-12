@@ -1,0 +1,6 @@
+{
+  "name": "ESG Compliance Copilot",
+  "description": "Autonomous ESG & Carbon Accounting Compliance Copilot designed for CSRD and SEC disclosure audits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
